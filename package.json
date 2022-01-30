@@ -1,0 +1,22 @@
+{
+  "name": "javascript-profesional",
+  "version": "1.0.0",
+  "description": "JavaScript Profesional practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisA52/javascript-profesional.git"
+  },
+  "author": "Christian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisA52/javascript-profesional/issues"
+  },
+  "homepage": "https://github.com/ChrisA52/javascript-profesional#readme",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
